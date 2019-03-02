@@ -1,0 +1,2 @@
+# linux
+practice from linux 
